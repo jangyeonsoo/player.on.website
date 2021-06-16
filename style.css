@@ -1,0 +1,60 @@
+body {font-family:'Nanum Gothic', sans-serif;}
+		#container {position: relative; width: 900px; margin: 0 auto;}
+		.section {width: 900px;}
+
+		#top {position: relative; top: -200px; left: -20px;}
+		#navigation {display: inline-block; float:right;}
+		.menu {display: inline-block; margin-right: 15px;}
+
+		img.player {position: relative; top:-210px;}
+
+		#contents1 {width: 900px; height: 900px;}
+		img.gift_cd {position: relative; padding: 25px; border-right: 1px solid black; border-bottom: 1px solid black;}
+		img.gift_logo {float: right; border-bottom: 1px solid black;}
+		#gift_vedio {float: left; position: relative; margin-top: 20px; margin-left: 25px; margin-right: 25px;}
+		#gift_information {float: right; width: 579px; padding-left: 20px; padding-top: 20px; border-left: 1px solid black;}
+		img.gift {float: left; margin-right: 20px; margin-bottom: 10px; width: 150px; height: 150px;}
+		#gift_left {float: left; margin-top: 20px; text-align: right;}
+		.gift_mv {margin-top: 20px; margin-left: 20px;}
+		.gift_mv_link {margin-left: 20px;}
+
+		#contents2 {width: 900px; height: 1230px;}
+		img.home_cd {position: relative; padding: 25px; border-right: 1px solid black; border-bottom: 1px solid black;}
+		img.home_logo {float: right; border-bottom: 1px solid black;}
+		#home_vedio {float: left; position: relative; margin-top: 20px; margin-left: 25px; margin-right: 25px;}
+		#home_information {float: right; width: 579px; padding-left: 20px; padding-top: 20px; border-left: 1px solid black;}
+		img.home {float: left; margin-right: 20px; margin-bottom: 10px; width: 150px; height: 150px;}
+		#home_left {float: left; margin-top: 20px; text-align: right;}
+		.home_mv {margin-top: 20px; margin-left: 20px;}
+		.home_mv_link {margin-left: 20px;}
+
+		#contents3 {width: 900px;}
+		img.lovers_cd {position: relative; padding: 25px; border-right: 1px solid black; border-bottom: 1px solid black;}
+		img.lovers_logo {float: right; border-bottom: 1px solid black;}
+		#lovers_vedio {float: left; position: relative; margin-top: 20px; margin-left: 25px; margin-right: 25px;}
+		#lovers_information {float: right; width: 579px; padding-left: 20px; padding-top: 20px; border-left: 1px solid black;}
+		img.lovers {float: left; margin-right: 20px; margin-bottom: 10px; width: 150px; height: 150px;}
+		#lovers_left {float: left; margin-top: 20px; width: 290px; text-align: right;}
+		.lovers_mv {margin-top: 20px; margin-left: 20px;}
+		.lovers_mv_link {margin-left: 20px;}
+
+		#contents4 {width: 900px;}
+		img.yearning_cd {position: relative; padding: 25px; border-right: 1px solid black; border-bottom: 1px solid black;}
+		img.yearning_logo {float: right; border-bottom: 1px solid black;}
+		#yearning_vedio {float: left; position: relative; margin-top: 20px; margin-left: 25px; margin-right: 25px;}
+		#yearning_information {float: right; width: 579px; padding-left: 20px; padding-top: 20px; border-left: 1px solid black;}
+		img.yearning {float: left; margin-right: 20px; margin-bottom: 10px; width: 150px; height: 150px;}
+		#yearning_left {float: left; margin-top: 20px; width: 290px; text-align: right;}
+		.yearning_mv {margin-top: 20px; margin-left: 20px;}
+		.yearning_mv_link {margin-left: 20px;}
+
+		#contents5 {width: 900px;}
+		img.wildflower_cd {position: relative; padding: 25px; border-right: 1px solid black; border-bottom: 1px solid black;}
+		img.wildflower_logo {float: right; border-bottom: 1px solid black;}
+		#wildflower_vedio {float: left; position: relative; margin-top: 20px; margin-left: 25px; margin-right: 25px;}
+		#wildflower_information {float: right; width: 579px; padding-left: 20px; padding-top: 20px; border-left: 1px solid black;}
+		img.wildflower {float: left; margin-right: 20px; margin-bottom: 10px; width: 150px; height: 150px;}
+		#wildflower_left {float: left; margin-top: 20px; width: 290px; text-align: right;}
+		.wildflower_mv {margin-top: 20px; margin-left: 20px;}
+		.wildflower_mv_link {margin-left: 20px;}
+		
